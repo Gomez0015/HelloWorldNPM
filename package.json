@@ -1,0 +1,22 @@
+{
+    "name": "helloworld-raxocoding",
+    "version": "1.0.0",
+    "description": "Generate a Hello (name) string!",
+    "main": "hello.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Gomez0015/helloworld-raxocoding.git"
+    },
+    "keywords": [
+        "helloworld"
+    ],
+    "author": "RaxoCoding",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Gomez0015/helloworld-raxocoding/issues"
+    },
+    "homepage": "https://github.com/Gomez0015/helloworld-raxocoding#readme"
+}
