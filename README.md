@@ -11,7 +11,7 @@ It just gets someones name a returns 'Hello ' + name
 # Usage
 
 ```
-const generateHello = require('helloworld-raxocoding');
+const raxocoding = require('helloworld-raxocoding');
 
-console.log(generateHello('Josh'));
+console.log(raxocoding.generateHello('Josh'));
 ```
